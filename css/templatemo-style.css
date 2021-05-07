@@ -80,8 +80,10 @@ p {
   padding-bottom: 175px;
   padding-left: 120px;
   text-align: left;
-  /* background-image: url(../img/banner-bg.png); */
+  /* background-image: url(../img/banner-bg.png); 
   background-color: #a9b9b5;
+  */
+  background-color: rgba(185, 78, 94, 0.9);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -122,7 +124,7 @@ p {
 }
 
 .right-banner-content {
-  padding: 20px 45px;
+  padding: 50px 45px;
   background-color: #f4bc51;
   text-align: center;
   min-height: 680px;
