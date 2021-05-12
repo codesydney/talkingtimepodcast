@@ -474,6 +474,7 @@ p {
 
 .testimonial {
   margin-top: 10px;
+  padding-bottom: 10px;
 }
 
 .testimonial .col-md-8 {
@@ -493,7 +494,7 @@ p {
   background-size: cover;
   background-position: center center;
   min-height: 600px;
-  height: 600px;
+  height: 700px;
 }
 
 #owl-testimonial {
@@ -505,7 +506,7 @@ p {
   background-size: cover;
   background-position: center center;
   min-height: 600px;
-  height: 600px;
+  height: 700px;
 }
 
 #owl-testimonial .item {
@@ -717,7 +718,7 @@ p {
 
 .contact-us #contact {
   min-height: 500px;
-  height: 500px;
+  height: 100px;
   padding-top: 100px;
   padding-bottom: 100px;
   padding-left: 120px;
@@ -1040,7 +1041,7 @@ footer p em {
 
   .contact-us #contact {
     min-height: 600px;
-    height: 600px;
+    height: 670px;
     padding-top: 60px;
     padding-bottom: 60px;
   }
